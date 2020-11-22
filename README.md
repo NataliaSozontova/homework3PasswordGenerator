@@ -27,6 +27,7 @@ Direct link to the application: https://nataliasozontova.github.io/homework3Pass
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917019-c9cc4700-2cdb-11eb-983b-5ab245bd9af6.png)
 
 * 4 types of characters to choose from
+
 Lowercase:
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917037-e36d8e80-2cdb-11eb-8961-2f9360bbc288.png)
@@ -38,10 +39,13 @@ Uppercase:
 Numeric:
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917063-fa13e580-2cdb-11eb-881d-c9c9ea35cedf.png)
+
 Special Characters:
+
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917026-d5b80900-2cdb-11eb-803d-97aa8d062187.png)
 
 * Type validation
+
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917053-f1bbaa80-2cdb-11eb-8ce3-290461678e8e.png)
 
 * Generated password 
