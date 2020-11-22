@@ -32,9 +32,9 @@ Numeric:
 Special Characters:
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917026-d5b80900-2cdb-11eb-803d-97aa8d062187.png)
 * Type validation
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917053-f1bbaa80-2cdb-11eb-8ce3-290461678e8e.png)
 * Generated password 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917254-0cdaea00-2cdd-11eb-8664-91303d194216.png)
 ## Installation 
 * Clone this repository.
 * Open repository in your browser.
