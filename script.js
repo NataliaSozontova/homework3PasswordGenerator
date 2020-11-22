@@ -46,7 +46,7 @@ function generatePassword() {
       passwordOptions += specChar;
       console.log(passwordOptions);
     }
-    var addNums = confirm("Would you like to have numeric characters?")
+    var addNums = confirm("Would you like to have Numeric characters?")
     if (addNums === true) {
       passwordOptions += numeric;
       console.log(passwordOptions);

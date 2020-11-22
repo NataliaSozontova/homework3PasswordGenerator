@@ -5,7 +5,6 @@ This Application allows users to generate a random password based on criteria th
 should be at least 8 characters and no more than 128 characters. User will be prompted for character types to include in the password such as lowercase, uppercase, numeric, and/or special characters and must select at least one 
 character type.
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99916644-5a555800-2cd9-11eb-9ae2-726ddafce0a5.png)
-![image](https://user-images.githubusercontent.com/50155533/99916644-5a555800-2cd9-11eb-9ae2-726ddafce0a5.png)
 ## Link to deployed application
 Direct link to the application: https://nataliasozontova.github.io/homework3PasswordGenerator/
 
@@ -20,8 +19,22 @@ Direct link to the application: https://nataliasozontova.github.io/homework3Pass
 
 ## Features
 * The password length
-* 4 types of characters to choose
-* Generate password area
+![Screenshot](https://user-images.githubusercontent.com/50155533/99916996-b4571d00-2cdb-11eb-9e04-f08322c345c1.png)
+* The password length validation
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917019-c9cc4700-2cdb-11eb-983b-5ab245bd9af6.png)
+* 4 types of characters to choose from
+Lowercase:
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917037-e36d8e80-2cdb-11eb-8961-2f9360bbc288.png)
+Uppercase:
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917041-e9fc0600-2cdb-11eb-9b76-f7d585b8a02c.png)
+Numeric:
+![Screenshot]()
+Special Characters:
+![Screenshot](https://user-images.githubusercontent.com/50155533/99917026-d5b80900-2cdb-11eb-803d-97aa8d062187.png)
+* Type validation
+![Screenshot]()
+* Generated password 
+![Screenshot]()
 ## Installation 
 * Clone this repository.
 * Open repository in your browser.
