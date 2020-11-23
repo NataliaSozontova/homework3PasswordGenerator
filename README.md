@@ -18,15 +18,19 @@ Direct link to the application: https://nataliasozontova.github.io/homework3Pass
 * [License](#license)
 
 ## Features
-* The password length
+* The password length: this feature allows user to specify the password length from 8 to 128 characters. 
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99916996-b4571d00-2cdb-11eb-9e04-f08322c345c1.png)
 
-* The password length validation
+* The password length validation: this feature validate that user entered at least 8 and not more than 128.
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917019-c9cc4700-2cdb-11eb-983b-5ab245bd9af6.png)
 
-* 4 types of characters to choose from
+* The password length validation for entered character type: this feature validate that user entered a number from 8 to 128.
+
+![Screenshot](https://user-images.githubusercontent.com/50155533/100026553-028e1e00-2db9-11eb-98fa-fe4b34490d43.png)
+
+* 4 types of characters to choose from: user promt to pick at least one from 4 offered types of characters.
 
 Lowercase:
 
@@ -38,17 +42,17 @@ Uppercase:
 
 Numeric:
 
-![Screenshot](https://user-images.githubusercontent.com/50155533/99917063-fa13e580-2cdb-11eb-881d-c9c9ea35cedf.png)
+![Screenshot](https://user-images.githubusercontent.com/50155533/100026494-e8544000-2db8-11eb-8dbc-77a6a885067a.png)
 
 Special Characters:
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917026-d5b80900-2cdb-11eb-803d-97aa8d062187.png)
 
-* Type validation
+* Type validation - this feature validate that user picked at least one type of characters. 
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917053-f1bbaa80-2cdb-11eb-8ce3-290461678e8e.png)
 
-* Generated password 
+* Generated password - this feature generates the unique pasword for the user and printed it on the screen. 
 
 ![Screenshot](https://user-images.githubusercontent.com/50155533/99917254-0cdaea00-2cdd-11eb-8664-91303d194216.png)
 ## Installation 
