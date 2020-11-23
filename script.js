@@ -65,8 +65,11 @@ function generatePassword() {
     }
     console.log(userPassword);
     return userPassword;
-  } else {
+  } else if(Number(passwordLength)){
     alert("The password length must be at least 8 characters and no more than 128 characters");
+    return userPassword;
+  } else {
+    alert("Please enter a number between 8 and 128!");
     return userPassword;
   }
 }
